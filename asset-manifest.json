@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/adviceslipapi/static/css/main.0c730f67.chunk.css",
+    "main.js": "/adviceslipapi/static/js/main.4a31f7d3.chunk.js",
+    "main.js.map": "/adviceslipapi/static/js/main.4a31f7d3.chunk.js.map",
+    "runtime-main.js": "/adviceslipapi/static/js/runtime-main.40e5e3b6.js",
+    "runtime-main.js.map": "/adviceslipapi/static/js/runtime-main.40e5e3b6.js.map",
+    "static/js/2.6bb53ccd.chunk.js": "/adviceslipapi/static/js/2.6bb53ccd.chunk.js",
+    "static/js/2.6bb53ccd.chunk.js.map": "/adviceslipapi/static/js/2.6bb53ccd.chunk.js.map",
+    "index.html": "/adviceslipapi/index.html",
+    "precache-manifest.ac435ca6d5f33c4e29b7728d4c8d8403.js": "/adviceslipapi/precache-manifest.ac435ca6d5f33c4e29b7728d4c8d8403.js",
+    "service-worker.js": "/adviceslipapi/service-worker.js",
+    "static/css/main.0c730f67.chunk.css.map": "/adviceslipapi/static/css/main.0c730f67.chunk.css.map",
+    "static/js/2.6bb53ccd.chunk.js.LICENSE.txt": "/adviceslipapi/static/js/2.6bb53ccd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/adviceslipapi/static/media/nature-3082832_1920.9daad6c5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40e5e3b6.js",
+    "static/js/2.6bb53ccd.chunk.js",
+    "static/css/main.0c730f67.chunk.css",
+    "static/js/main.4a31f7d3.chunk.js"
+  ]
+}
